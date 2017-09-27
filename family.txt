@@ -1,0 +1,8 @@
+Hasan
+Ayşe, Hasan, ebu-Ayşe
+Ali, Ayşe, ibn-Hasan
+Sema, Hasan, ebu-Ayşe
+Ahmet, Ayşe, ibn-Hasan
+Sibel, Sema, ebu-Ayşe
+Aslı, Ali, ibn-Hasan
+Tarık, Hasan, ebu-Ayşe
